@@ -1,0 +1,7 @@
+hub HCMV
+shortLabel HCMV merlin
+longLabel HCMV datasets aligned to merlin
+genomesFile merlin_NC006273-2.fa
+email rmwalter@wisc.edu
+descriptionUrl https://www.genome.jp/dbget-bin/www_bget?refseq:NC_006273
+
